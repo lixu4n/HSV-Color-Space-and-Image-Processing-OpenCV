@@ -31,9 +31,9 @@ python main.py
 
 ```
 
-## Review Notes for Implementation 
+## Review Notes on Implementation Suggestions - Issues
 
-No need to BRG -> RBG as OpenCV does it for RBG automatically..... could go from orignal image to RGB TO HSV 
+- No need to BRG -> RBG as OpenCV does it for RBG automatically..... could go from original image to RGB TO HSV 
 
 ## This is the result of the program
 ![Your Image](result.png)
