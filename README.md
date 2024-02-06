@@ -2,7 +2,7 @@
 
 ## Introduction to OpenCV 
 
-This simple introduction to image processsing using OpenCV is focusing on the HSV color space. 
+This simple introduction to image processsing using OpenCV focusing on the HSV color space. 
 By creating a Python program that opens an image in RBG format then performs a conversion to the HSV color space. It will also set the V channel of all pixel to 255 (maximum brightness). It displays the results back in RBG. The V chanel is the value (V) in HSV. It represents the brightness or lightness of the color! This fun program explores the basics of using the OpenCV Library.
 
 <img src="https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png" alt="OpenCV Logo" width="100"/> 
